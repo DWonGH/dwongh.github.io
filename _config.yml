@@ -82,11 +82,15 @@ analytics:
 author:
   name             : "Dr David Western"
   avatar           : "profile.png"
-  bio              : "Health tech researcher"
+  bio              : "Health tech researcher specialising in AI, physiological sensing, and movement analysis"
   location         : "Bristol, UK"
-  employer         :
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Western+D&cauthor_id=25398981"
+  employer         : "UWE Bristol"
   googlescholar    : "https://scholar.google.co.uk/citations?user=RkFTz4MAAAAJ&hl=en&authuser=1"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Western+D&cauthor_id=25398981"
+  orcid            : "https://orcid.org/0000-0002-4303-7423"
+  github           : "dwongh"
+  linkedin         : "david-western-9296841/"
+  twitter          : "@dgwestern"
   email            : "firstname.lastname@uwe.ac.uk"
   researchgate     :
   uri              :
@@ -96,20 +100,16 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "dwongh"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/david-western-9296841/"
-  orcid            : "https://orcid.org/0000-0002-4303-7423"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@dgwestern"
   vine             :
   weibo            :
   xing             :
