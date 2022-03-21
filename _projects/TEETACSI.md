@@ -1,6 +1,6 @@
 ---
 title: "TEETACSI"
-excerpt: "Tracking Expert Eyes to Train AI for Clinical Signal Interpretation<br/><img src='https://github.com/DWonGH/TEETACSI/blob/main/eyetracker.gif'>"
+excerpt: "Tracking Expert Eyes to Train AI for Clinical Signal Interpretation<br/><img src='images/eyetracker.gif'>"
 collection: projects
 ---
 
