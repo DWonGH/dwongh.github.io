@@ -11,3 +11,5 @@ Numerous studies have attempted automated interpretation of EEG by techniques su
 The aim of this project is to improve on this performance by replicating human expertise in identifying which sections of a signal to focus on.
 
 Research question: ‘Can the training of deep neural networks for automated clinical EEG analysis be improved with eye-tracking of experienced human interpreters?’
+
+<br/><img src='images/eyetracker.gif'>
