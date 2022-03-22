@@ -1,6 +1,6 @@
 ---
 title: "TEETACSI"
-excerpt: "Tracking Expert Eyes to Train AI for Clinical Signal Interpretation<br/><img src='images/eyetracker.gif'>"
+excerpt: "Tracking Expert Eyes to Train AI for Clinical Signal Interpretation<br/><img src='https://raw.githubusercontent.com/DWonGH/dwongh.github.io/master/images/eyetracker.gif'>"
 collection: projects
 ---
 
@@ -14,4 +14,4 @@ Research question: ‘Can the training of deep neural networks for automated cli
 
 ![GIF showing TEETACSI's tracking of eye gaze relative to on-screen EEG signals.](https://raw.githubusercontent.com/DWonGH/dwongh.github.io/master/images/eyetracker.gif)
 
-<image src="https://raw.githubusercontent.com/DWonGH/dwongh.github.io/master/images/eyetracker.gif" alt="GIF showing TEETACSI's tracking of eye gaze relative to on-screen EEG signals." width="450" /> 
+#<image src="https://raw.githubusercontent.com/DWonGH/dwongh.github.io/master/images/eyetracker.gif" alt="GIF showing TEETACSI's tracking of eye gaze relative to on-screen EEG signals." width="450" /> 
