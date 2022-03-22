@@ -12,6 +12,6 @@ I'm a health technologist with a broad range of specialisms and interests, inclu
 
 I'm a [Senior Lecturer in Health Technology at UWE Bristol](https://people.uwe.ac.uk/Person/DavidWestern), based within the [Health Tech Hub (HTH)](https://www.healthtechhub.co.uk/). The HTH is a research centre focussed on supporting innovation in the Bristol region's health tech industry.
 
-I'm co-leader of the [REACH research group](https://www.uwe.ac.uk/research/centres-and-groups/reach).
+I'm co-leader of the [REACH research group](https://www.uwe.ac.uk/research/centres-and-groups/reach). You can follow us on [Twitter](https://twitter.com/ReachBrl) or [LinkedIn](https://www.linkedin.com/company/reach-brl).
 
-If you're interested collaboration, consultation, or PhD supervision, feel free to get in touch.
+If you're interested collaboration, consultation, or PhD supervision, feel free to get in touch at firstname.lastname@uwe.ac.uk.
