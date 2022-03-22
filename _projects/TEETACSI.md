@@ -13,5 +13,3 @@ The aim of this project is to improve on this performance by replicating human e
 Research question: ‘Can the training of deep neural networks for automated clinical EEG analysis be improved with eye-tracking of experienced human interpreters?’
 
 ![GIF showing TEETACSI's tracking of eye gaze relative to on-screen EEG signals.](https://raw.githubusercontent.com/DWonGH/dwongh.github.io/master/images/eyetracker.gif)
-
-#<image src="https://raw.githubusercontent.com/DWonGH/dwongh.github.io/master/images/eyetracker.gif" alt="GIF showing TEETACSI's tracking of eye gaze relative to on-screen EEG signals." width="450" /> 
