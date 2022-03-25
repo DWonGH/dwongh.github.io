@@ -1,14 +1,14 @@
 # main links links
 main:
+  - title: "Projects"
+    url: /projects/
+        
   - title: "Publications"
     url: https://scholar.google.co.uk/citations?hl=en&user=RkFTz4MAAAAJ&view_op=list_works&sortby=pubdate
 
   #- title: "Teaching"
   #  url: /teaching/    
     
-  - title: "Projects"
-    url: /projects/
-        
   #- title: "Blog Posts"
   #  url: /year-archive/
     
