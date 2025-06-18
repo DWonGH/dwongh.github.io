@@ -1,6 +1,6 @@
 ---
 title: "CHARMED-MS"
-excerpt: "CHARacterisation of Movement to predict Efficacy of DBS in MS<br/><img src='/images/500x300.png'>"
+excerpt: "CHARacterisation of Movement to predict Efficacy of DBS in MS"
 collection: projects
 ---
 
