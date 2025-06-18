@@ -2,7 +2,7 @@
 title: "AI for EEG"
 excerpt: "Machine learning classification of clinical EEG"
 collection: projects
-----------------
+---
 
 ## Overview
 
