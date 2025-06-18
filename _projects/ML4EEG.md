@@ -1,6 +1,14 @@
 ---
 title: "AI for EEG"
-excerpt: "Machine learning classification of clinical EEG"
+excerpt: "Machine learning classification of clinical EEG<br/><div style="text-align:center;">
+  <iframe width="720" height="405" 
+    src="https://www.youtube.com/embed/qoOEXJrMrKg" 
+    title="Machine Learning for Clinical EEG" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
+</div>"
 collection: projects
 ---
 
