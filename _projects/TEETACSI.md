@@ -2,6 +2,7 @@
 title: "TEETACSI"
 excerpt: "Tracking Expert Eyes to Train AI for Clinical Signal Interpretation<br/><img src='https://raw.githubusercontent.com/DWonGH/dwongh.github.io/master/images/eyetracker.gif'>"
 collection: projects
+order: 3
 ---
 
 Managing our society’s growing burden of neurological disorders will require significant advances in our ability to efficiently assess a patient’s neurological state. Electroencephalography (EEG) is already, and will increasingly be, an important tool in this effort; it is the only clinically convenient measurement technique with adequate time-resolution to capture human thought processes. However, its use in current practice is severely restricted by the availability of trained neurophysiologists to interpret the recordings. 
