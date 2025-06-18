@@ -1,7 +1,7 @@
 ---
-
-title: "Machine Learning for Clinical EEG"
-date: 2025-06-18
+title: "AI for EEG"
+excerpt: "Machine learning classification of clinical EEG<br/><img src='/images/500x300.png'>"
+collection: projects
 ----------------
 
 ## Overview
