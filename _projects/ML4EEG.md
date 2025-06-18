@@ -4,6 +4,16 @@ excerpt: "Machine learning classification of clinical EEG"
 collection: projects
 ---
 
+<div style="text-align:center;">
+  <iframe width="720" height="405" 
+    src="https://www.youtube.com/embed/qoOEXJrMrKg" 
+    title="Machine Learning for Clinical EEG" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
+</div>
+
 ## Overview
 
 Electroencephalography (EEG) is a cornerstone clinical tool for diagnosing and monitoring neurological conditions like epilepsy, sleep disorders, and brain injuries. However, clinical EEG interpretation faces significant challenges, including a shortage of expert interpreters and inherent variability between human analysts.
