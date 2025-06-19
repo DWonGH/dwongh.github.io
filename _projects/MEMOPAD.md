@@ -1,6 +1,7 @@
 ---
 title: MEMoPAD
 excerpt: "Multimodal Emotion Monitoring in clinical Pathways for Anxiety Disorders"
+collection: projects
 order: 1.9
 ---
 
