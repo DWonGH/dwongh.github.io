@@ -2,7 +2,7 @@
 title: "RoboSafe (2014-2016)"
 excerpt: "Safety and reliability frameworks for trustworthy autonomous systems.<br/><a href='https://www.youtube.com/watch?v=-JY2lzkrBv0' target='_blank'><img src='https://img.youtube.com/vi/-JY2lzkrBv0/0.jpg' width='500'></a>"
 collection: projects
-order: 9
+order: 100
 ---
 
 I joined the RoboSafe project as a post-doctoral researcher (part-time, 2014-2016). This project focused on the safety and reliability of autonomous robotic systems. Its goal was to develop frameworks, methodologies, and tools to ensure that robotic agents can operate safely in complex, real-world environments. 
@@ -10,7 +10,7 @@ We gave particular attention to the challenge of fusing verification and validat
 
 ## Introduction Video
 
-An overview of RoboSafe is available in this YouTube video:<br/>
+I compiled this video to summarise the project:<br/>
 <a href="https://www.youtube.com/watch?v=-JY2lzkrBv0" target="_blank"><img src="https://img.youtube.com/vi/-JY2lzkrBv0/0.jpg" width="500"></a>
 
 ---
