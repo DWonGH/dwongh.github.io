@@ -1,0 +1,50 @@
+---
+title: PhD Project - Biolectric Signal Processing to Infer Nervous Control of the Human Heart (2008-2012)
+role: Lead Researcher
+date: 2012 - 2014
+summary: Investigating the physiological effects of mental and emotional stress on cardiac function, specifically examining how stress induced by emotionally charged film clips alters heart rhythm and blood pressure in healthy individuals and patients with compromised cardiac health.
+collaborators:
+  - Prof. Peter Taggart (UCLH Neurocardiology Unit)
+  - Prof. Jas Gill (Guy's and St. Thomas' Hospital, Department of Cardiology)
+  - Researchers from King's College London and Guy's and St. Thomas' Hospital
+thesis: "[UCL Discovery Link](https://discovery.ucl.ac.uk/id/eprint/1358317/)"
+papers:
+  - "[Watching stressful movies triggers changes to your heartbeat](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=RkFTz4MAAAAJ&citation_for_view=RkFTz4MAAAAJ:u-x6o8ySG0sC)"
+  - "[Autonomic modulation of cardiac electrophysiology: Experimental and clinical observations](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=RkFTz4MAAAAJ&citation_for_view=RkFTz4MAAAAJ:d1gkVwhDpl0C)"
+media:
+  - BBC Radio 4 "All in the Mind": [Listen Here](https://www.bbc.co.uk/programmes/b01kpvj1)
+  - BBC Online: ["Scary movies may help weight loss but disrupt heartbeat"](http://www.bbc.co.uk/news/health-27425469)
+  - UCL News Story: ["Stressful films trigger heart changes"](http://www.ucl.ac.uk/news/news-articles/0514/150414-heart-stress)
+  - The Guardian: ["Are action movies bad for weak hearts?"](http://www.theguardian.com/film/2014/may/16/are-action-movies-bad-for-weak-hearts-medical-study-stress)
+  - Daily Express: ["Warning: Blockbuster action films can be too thrilling for our health"](http://www.express.co.uk/news/health/476216/Warning-Blockbuster-action-films-can-be-too-thrilling-for-our-health)
+  - TIME Magazine: ["Intense movies may be dangerous for people with weak hearts"](http://time.com/102839/intense-movies-may-be-dangerous-for-people-with-weak-hearts/)
+  - South China Morning Post: ["Watching action films a risk for people with bad hearts"](http://www.scmp.com/news/world/article/1514980/watching-action-films-risk-people-bad-hearts-says-study)
+
+excerpt: "Safety and reliability frameworks for trustworthy autonomous systems.<br/><a href='https://www.youtube.com/watch?v=-JY2lzkrBv0' target='_blank'><img src='/images/phd_BBC_screenshot.png' width='500'></a>"
+collection: projects
+order: 999
+---
+
+### Project Summary
+
+This project aimed to understand how mental and emotional stress impacts cardiac function, particularly regarding heart rhythm stability and blood pressure changes. 
+Using film clips as controlled emotional triggers, we monitored healthy subjects and cardiac patients undergoing routine catheterization, observing direct cardiac muscle responses via ventricular electrodes. 
+Our findings highlighted how intense emotional stimuli could destabilize heart rhythms, posing potential risks to individuals with compromised cardiac health.
+
+- Supervisor: Dr. Ben Hanson - UCL Mechanical Engineering
+
+### Thesis
+[Link to Thesis (UCL Discovery)](https://discovery.ucl.ac.uk/id/eprint/1358317/)
+
+### Related Papers
+- [Watching stressful movies triggers changes to your heartbeat](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=RkFTz4MAAAAJ&citation_for_view=RkFTz4MAAAAJ:u-x6o8ySG0sC)
+- [Autonomic modulation of cardiac electrophysiology: Experimental and clinical observations](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=RkFTz4MAAAAJ&citation_for_view=RkFTz4MAAAAJ:d1gkVwhDpl0C)
+
+### Media Coverage
+- BBC Radio 4 "All in the Mind": [Listen Here](https://www.bbc.co.uk/programmes/b01kpvj1)
+- BBC Online: ["Scary movies may help weight loss but disrupt heartbeat"](http://www.bbc.co.uk/news/health-27425469)
+- UCL News Story: ["Stressful films trigger heart changes"](http://www.ucl.ac.uk/news/news-articles/0514/150414-heart-stress)
+- The Guardian: ["Are action movies bad for weak hearts?"](http://www.theguardian.com/film/2014/may/16/are-action-movies-bad-for-weak-hearts-medical-study-stress)
+- Daily Express: ["Warning: Blockbuster action films can be too thrilling for our health"](http://www.express.co.uk/news/health/476216/Warning-Blockbuster-action-films-can-be-too-thrilling-for-our-health)
+- TIME Magazine: ["Intense movies may be dangerous for people with weak hearts"](http://time.com/102839/intense-movies-may-be-dangerous-for-people-with-weak-hearts/)
+- South China Morning Post: ["Watching action films a risk for people with bad hearts"](http://www.scmp.com/news/world/article/1514980/watching-action-films-risk-people-bad-hearts-says-study)
