@@ -7,13 +7,12 @@ order: 999
 
 ## Project Summary
 
-This project aimed to understand how mental and emotional stress impacts cardiac function, particularly regarding heart rhythm stability and blood pressure changes. 
-Using film clips as controlled emotional triggers, we monitored healthy subjects and cardiac patients undergoing routine catheterization, observing direct cardiac muscle responses via ventricular electrodes. 
+This project aimed to understand how mental and emotional stress impacts cardiac function, particularly regarding heart rhythm stability, blood pressure changes, and broader autonomic coordination. 
+Using film clips as controlled emotional triggers, we monitored cardiac patients undergoing routine catheterization, observing direct cardiac muscle responses via ventricular electrodes. 
 Our findings highlighted how intense emotional stimuli could destabilize heart rhythms, posing potential risks to individuals with compromised cardiac health.
 
-- Supervisor: Dr. Ben Hanson - UCL Mechanical Engineering
+Supervisor: Dr. Ben Hanson - UCL Mechanical Engineering
 
-## Thesis
 [Link to Thesis](https://discovery.ucl.ac.uk/id/eprint/1358317/)
 
 ## Other Related Publications
