@@ -1,6 +1,6 @@
 ---
 title: TREMTRACE (2012-2014)
-excerpt: "Tremor Treatment and Clinical Evaluation <br/><img src='/images/TREMTRAC.png'> width='500'></a>"
+excerpt: "Tremor Treatment and Clinical Evaluation <br/><img src='/images/TREMTRAC.png' width='500'>"
 collection: projects
 order: 990
 ---
