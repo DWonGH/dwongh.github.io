@@ -1,6 +1,6 @@
 ---
 title: TREMTRACE (2012-2014)
-excerpt: "Tremor Treatment and Clinical Evaluation"
+excerpt: "Tremor Treatment and Clinical Evaluation <br/><img src='/images/TREMTRAC.png'> width='500'></a>"
 collection: projects
 order: 990
 ---
@@ -15,6 +15,8 @@ Key findings: The developed orthosis, focussing on tremor at the elbow and using
 but to do so while satisfying user acceptance criteria (weight, aesthetics, comfort, easy of donning/doffing) was not possible with the technologies available at the time.
 However, our motion capture system proved effective, by automatically tailoring the tremor severity measurement to the patient's individual tremor characteristics (distribution of amplitude between the joints). 
 We showed that, unlike the conventional sensor-based and clinical metrics, the newly proposed ’change in scale’ metrics presented statistically significant correlations with changes in self-assessed impact of tremor.
+
+![TREMRAC motion capture system - left: user wearing sensors; right: screenshot of software application](https://raw.githubusercontent.com/DWonGH/dwongh.github.io/master/images/TREMTRAC.png)
 
 ## Related Publications
 1. **Western** et al (2019) [Personalised profiling to identify clinically relevant changes in tremor due to multiple sclerosis](https://link.springer.com/article/10.1186/s12911-019-0881-1). BMC Medical Informatics and Decision Making [online]. 19 (1), p. 162.
